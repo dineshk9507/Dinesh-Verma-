@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Koshish De-addiction Center",
+  "description": "कोशिश नशा मुक्ति केंद्र, हनुमानगढ़ - दिनेश वर्मा। शराब, स्मैक, अफीम व हर प्रकार का नशा छुड़ाने के लिए सर्वश्रेष्ठ केंद्र।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
